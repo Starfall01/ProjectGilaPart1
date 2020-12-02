@@ -1,0 +1,2 @@
+#incld<string.h>
+
